@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/liuyong0/liuyong0.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-aaaa[正统辅助V1.80](http://www.baidu.com)aaaa
+aaaa[正统辅助V1.80](https://github.com/liuyong0/liuyong0.github.io/raw/master/%E6%AD%A3%E7%BB%9F%E8%BE%85%E5%8A%A9V1.80.apk)aaaa
 
 ### Markdown
 
