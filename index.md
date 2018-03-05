@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 aaaa[正统辅助V1.80](https://github.com/liuyong0/liuyong0.github.io/raw/master/%E6%AD%A3%E7%BB%9F%E8%BE%85%E5%8A%A9V1.80.apk)aaaa
 
+a[各个平台下载地址](https://github.com/liuyong0/liuyong0.github.io/blob/master/%E5%90%84%E4%B8%AA%E5%B9%B3%E5%8F%B0%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80.md)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
