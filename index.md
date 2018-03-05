@@ -1,54 +1,65 @@
 # 目录
 ### [一、前提](#one)
-### [二、辅助介绍](#二、辅助介绍)
-### [三、辅助安装](#三、辅助安装)
-### [四、辅助使用](#四、辅助使用)
-### [五、常见问题](#五、常见问题)
+### [二、辅助介绍](#two)
+### [三、辅助安装](#three)
+### [四、辅助使用](#four)
+### [五、常见问题](#five)
 
-<span id="one"></span>
+
+
+<span id="one"> <span>
+# 内容
 ### 一、前提
 **使用辅助的前提条件：**
-1. 你有安卓手机。
-	* 已经root。
-	* 分辨率为720x1280或1080x1920。
+1. 你有安卓手机
+	* 已经root
+	* 分辨率为720*1280或1080*1920
 	*（手机仍有可能不兼容，建议使用电脑）*
-2. 你有电脑。
+2. 你有电脑
 
 **满足1和2中任意一条就可以使用辅助**
 
-aaaa[正统辅助V1.80](https://github.com/liuyong0/liuyong0.github.io/raw/master/%E6%AD%A3%E7%BB%9F%E8%BE%85%E5%8A%A9V1.80.apk)aaaa
 
-a[各个平台下载地址](https://github.com/liuyong0/liuyong0.github.io/blob/master/%E5%90%84%E4%B8%AA%E5%B9%B3%E5%8F%B0%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80.md)
 
-<span id="qianti">跳转到这里：</span>
-### Markdown
+<span id="two"> <span>
+### 二、辅助介绍
+正统辅助是正统三国手游的一款自动挂机辅助。目前功能如下图：
+![功能展示1](/imgs/功能展示1)
+![功能展示2](/imgs/功能展示2)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**适用对象：**
+1. 安卓玩家
+2. 与安卓数据互通的苹果玩家都可以使用辅助。（数据互通：苹果版游戏账号可以在安卓版上登录）
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<span id="three"> <span>
+### 三、辅助安装
+**电脑安装辅助步骤**
+1. 下载安装安卓模拟器（推荐使用夜神模拟器和mumu模拟器）
+	[夜神模拟器](http://www.yeshen.com)：可多开，只能Windows系统使用。
+	[mumu模拟器](http://mumu.163.com)：不能多开，Windows和Mac OS系统都可以使用。
+2. 设置模拟器分辨率
+	自定义分辨为宽：720，高：1280，DPI：320。
+	设置完后重启模拟器。
+	（模拟器性能设置根据自己情况自行设置，性能设置越高越流畅）
+3. 下载安装游戏和辅助
+	[各个平台游戏下载地址](https://github.com/liuyong0/liuyong0.github.io/blob/master/%E5%90%84%E4%B8%AA%E5%B9%B3%E5%8F%B0%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80.md)
+	
+	[辅助下载](https://github.com/liuyong0/liuyong0.github.io/raw/master/%E6%AD%A3%E7%BB%9F%E8%BE%85%E5%8A%A9V1.80.apk)
+	
 
-1. Numbered
-2. List
+	
+<span id="four"> <span>
+### 四、辅助使用
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<span id="five"> <span>
+### 五、常见问题
+1. 如何知道自己是哪个游戏平台？
+	（这里放一个表格）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuyong0/liuyong0.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2. 辅助可以试用吗？
+	不能。
