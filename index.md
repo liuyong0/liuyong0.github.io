@@ -1,5 +1,5 @@
 # 目录
-#### 一、前提
+#### [一、前提](#qianti)
 #### 二、辅助介绍
 #### 三、辅助安装
 #### 四、辅助使用
@@ -35,7 +35,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuyong0/liuyong0.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+<span id = "qianti">跳转到这里：</span>
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
