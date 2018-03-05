@@ -1,8 +1,9 @@
-### Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/liuyong0/liuyong0.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###### 目录
+### 一、前提
+### 二、辅助介绍
+### 三、辅助安装
+### 四、辅助使用
+### 五、常见问题
 
 aaaa[正统辅助V1.80](https://github.com/liuyong0/liuyong0.github.io/raw/master/%E6%AD%A3%E7%BB%9F%E8%BE%85%E5%8A%A9V1.80.apk)aaaa
 
