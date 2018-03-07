@@ -54,7 +54,7 @@
 	
 	
 	[如何知道自己是哪个游戏平台？](#five)  
-	[各个平台游戏下载地址](https://github.com/liuyong0/liuyong0.github.io/blob/master/%E5%90%84%E4%B8%AA%E5%B9%B3%E5%8F%B0%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80.md)  
+	[各个平台游戏下载地址](/state.md)  
 	
 	* 下载辅助安装到模拟器上。  
 	[辅助下载](https://github.com/liuyong0/liuyong0.github.io/releases)  
