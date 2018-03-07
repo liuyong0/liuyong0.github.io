@@ -61,7 +61,7 @@
 1. 打开辅助，点击“允许”给予root权限
 	![给root权限](/imgs/给root权限.png) 
 2. 点击播放，调出控制条
-	![播放辅助](https://github.com/liuyong0/liuyong0.github.io/blob/master/imgs/播放辅助.png)  
+	![播放辅助](https://github.com/liuyong0/liuyong0.github.io/blob/master/imgs/播放辅助.jpg)  
 	控制条按钮功能介绍：  
 	![控制条介绍](/imgs/控制条介绍.png)  
 3. 按模拟器home键返回桌面，打开并登录游戏，调到游戏内城界面开始播放辅助  
