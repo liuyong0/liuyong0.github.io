@@ -49,7 +49,7 @@
 	（模拟器性能设置根据自己情况自行设置，性能设置越高越流畅）
 3. 下载安装游戏和辅助  
 	* 下载自己玩的平台的游戏安装包到电脑上，然后安装到模拟器上。  
-	![夜神安装应用入口](/imgs/夜神安装应用入口.png)  ![夜神安装应用](/imgs/夜神安装应用.png)   
+	![夜神安装应用](/imgs/夜神安装应用.png)   
 	[各个平台游戏下载地址](https://github.com/liuyong0/liuyong0.github.io/blob/master/%E5%90%84%E4%B8%AA%E5%B9%B3%E5%8F%B0%E6%B8%B8%E6%88%8F%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80.md)  
 	[如何知道自己是哪个游戏平台？](#five)  
 	
@@ -100,7 +100,7 @@
 | :------------: |:---------------:| 
 | 官方版(萝卜版) | ![萝卜版1](imgs/icon/萝卜版1.png)![萝卜版2](imgs/icon/萝卜版2.png) | 
 | 九玩版        | [九玩版1](imgs/icon/九玩版1.png)![九玩版2](imgs/icon/九玩版2.png) | 
-| 抢玩版        | ![抢玩版1](imgs/icon/抢玩版.png)![抢玩版2](imgs/icon/抢玩版2.png) |  
+| 抢玩版        | ![抢玩版1](imgs/icon/抢玩版1.png)![抢玩版2](imgs/icon/抢玩版2.png) |  
 | 草花版 | ![草花版1](imgs/icon/草花版1.png)![草花版2](imgs/icon/草花版2.png) |  
 | 拇指版 | ![拇指版](imgs/icon/拇指版.png) |  
 | 九游版 | ![九游版](imgs/icon/九游版.png) |　 
