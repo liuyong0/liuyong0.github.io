@@ -100,7 +100,7 @@
 | :------------: |:---------------:| 
 | 官方版(萝卜版) | ![萝卜版1](imgs/icon/萝卜版1.png)![萝卜版2](imgs/icon/萝卜版2.png) | 
 | 九玩版        | [九玩版1](imgs/icon/九玩版1.png)![九玩版2](imgs/icon/九玩版2.png) | 
-| 抢玩版        | ![抢玩版1](imgs/icon/抢玩版1.png)![抢玩版2](imgs/icon/抢玩版2.png) |  
+| 抢玩版        | ![抢玩版](imgs/icon/抢玩版.png)![抢玩版2](imgs/icon/抢玩版2.png) |  
 | 草花版 | ![草花版1](imgs/icon/草花版1.png)![草花版2](imgs/icon/草花版2.png) |  
 | 拇指版 | ![拇指版](imgs/icon/拇指版.png) |  
 | 九游版 | ![九游版](imgs/icon/九游版.png) |　 
