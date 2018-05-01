@@ -1,5 +1,5 @@
 #### 快速链接  [辅助下载](https://github.com/liuyong0/liuyong0.github.io/releases)   [各平台游戏安装包下载](/state.md)   
-<h1 style="color:red">新用户请严格按照教程一步步操作,务必看完教程全部内容</h1>
+<h4 style="color:red">新用户请严格按照教程一步步操作,务必看完教程全部内容</h4>
 
 # 目录
 ### [一、前提](#one)
