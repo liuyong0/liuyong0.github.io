@@ -1,5 +1,5 @@
 #### 快速链接  [辅助下载](https://github.com/liuyong0/liuyong0.github.io/releases)   [各平台游戏安装包下载](/state.md)   
-<font size="3" color="red">新用户请严格按照教程一步步操作</font>
+<font size="40" color="red">新用户请严格按照教程一步步操作</font>
 
 # 目录
 ### [一、前提](#one)
