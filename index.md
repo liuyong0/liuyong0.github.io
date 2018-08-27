@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="1" url=http:/showdoc.cc/ztsg">
+<meta http-equiv="refresh" content="1" url=http:/showdoc.cc/ztsg"></meta>
 #### 快速链接  [辅助下载](http://suo.im/4KukP2)   [各平台游戏安装包下载](/state.md)   
 <h4 style="color:red">新用户请看教程安装辅助,务必看完教程全部内容。</h4>  
 <h4>看不懂或者不想看，但又想用辅助的可以加群后联系群主远程安装辅助，安装费98元（含1个月卡激活码费用）。</h4>
